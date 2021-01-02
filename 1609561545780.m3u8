@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:5.720000,
+https://img13.360buyimg.com/ddimg/jfs/t1/161502/23/533/1441328/5feff5c8Ecece8ccf/552280a4d1fb738c.png
+#EXTINF:4.720000,
+https://img10.360buyimg.com/ddimg/jfs/t1/171106/21/488/1368760/5feff5c7E3fded71e/f543ef3659174050.png
+#EXTINF:9.960000,
+https://img11.360buyimg.com/ddimg/jfs/t1/170796/14/482/2711080/5feff5c9E19784033/b474872fb5033b99.png
+#EXTINF:10.000000,
+https://img11.360buyimg.com/ddimg/jfs/t1/166574/2/476/2270408/5feff5c9Ed9a1e2c9/df4fc0155ec831ee.png
+#EXTINF:0.280000,
+https://img14.360buyimg.com/ddimg/jfs/t1/159245/40/1208/57138/5feff5c7Edceb5c89/e132704752254c0b.png
+#EXT-X-ENDLIST
